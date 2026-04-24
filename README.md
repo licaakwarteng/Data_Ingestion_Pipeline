@@ -19,7 +19,7 @@ Instead of storing files temporarily on local servers, data moves continuously t
 
 ## Solution Architecture
 Components Used:
-•	Django & Python
+•	FastAPI & Python
 •	Amazon S3
 •	PostgreSQL & Scheduler / queue (future-ready) 
 
