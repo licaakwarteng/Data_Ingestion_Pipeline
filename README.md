@@ -21,6 +21,6 @@ Instead of storing files temporarily on local servers, data moves continuously t
 Components Used:
 •	FastAPI & Python
 •	Amazon S3
-•	PostgreSQL & Scheduler / queue (future-ready) 
+•	PostgreSQL
 
 
