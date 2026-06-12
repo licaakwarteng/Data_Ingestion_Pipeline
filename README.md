@@ -6,7 +6,7 @@ This is my personal data engineering project version of a real-world project tra
 The organization depended on external data sources to support critical business processes. However, the existing transfer workflow required files to be downloaded locally before being uploaded to cloud storage. This created multiple operational risks.
 
 The business needed a more reliable and scalable approach to move data efficiently from source systems into cloud storage.
-Click <a href="">here</a> to view statement.
+Click <a href="https://github.com/licaakwarteng/data_ingestion_pipeline/blob/main/DEng_pipeline_statement.pdf">here</a> to view statement.
 
 
 ## Project Objectives
